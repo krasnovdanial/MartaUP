@@ -6,6 +6,6 @@
 
 ```sh
 git clone https://github.com/krasnovdanial/martaUP.git
-cd martaup
+cd martaUp
 Open index.html
 ```
